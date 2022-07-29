@@ -1,0 +1,7 @@
+name: SpeedBoots
+version: 1.0
+api-version: 1.13
+main: me.hybridplague.speedboots.SpeedBoots
+
+commands:
+  speedboots:
